@@ -5,3 +5,5 @@
 [ADM_LAB_03]https://github.com/2303A51202/ADM-LAB/blob/main/ADM_LAB_03.ipynb
 
 [ADM_LAB_04]https://github.com/2303A51202/ADM-LAB/blob/main/ADM_LAB_04.ipynb
+
+[ADM LAB 05]https://github.com/2303A51202/ADM-LAB/blob/main/ADM_LAB_05.ipynb
